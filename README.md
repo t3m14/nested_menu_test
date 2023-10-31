@@ -12,7 +12,3 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 ```
-
-### License
-This project is licensed under the terms of the MIT license# nested_menu_test
-# nested_menu_test
